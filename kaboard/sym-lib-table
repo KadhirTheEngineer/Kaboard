@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kbd")(type "Legacy")(uri "${KIPRJMOD}/lib/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "swoop")(type "KiCad")(uri "${KIPRJMOD}/lib/swoop/swoop.kicad_sym")(options "")(descr ""))
+  (lib (name "dumta")(type "KiCad")(uri "${KIPRJMOD}/lib/dumta/dumta.kicad_sym")(options "")(descr ""))
+  (lib (name "Seeed_Studio_XIAO_Series")(type "KiCad")(uri "/Users/kad/main/personal/Projects/keyboards/pcblib/OPL_Kicad_Library/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+)
