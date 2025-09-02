@@ -82,7 +82,7 @@
 		(tenting front back)
 		(aux_axis_origin 145.73 12.66)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_57d5f550)
+			(layerselection 0x00000000_00000000_55555555_57d55550)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_0280a000)
 			(disableapertmacros no)
 			(usegerberextensions yes)
@@ -108,7 +108,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -28210,19 +28209,6 @@
 			(layer "F.Fab")
 			(uuid "a0fddda4-2266-4e3d-8206-0dd0641dfa21")
 		)
-		(fp_text user "SW01"
-			(at 0 0.5 60)
-			(layer "B.SilkS")
-			(hide yes)
-			(uuid "dd294a15-d7f7-4760-8955-805431cf7bd1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
 		(fp_text user "SW_SPDT"
 			(at 0 -0.5 60)
 			(layer "B.Fab")
@@ -32046,19 +32032,6 @@
 				)
 			)
 		)
-		(fp_text user "BT01"
-			(at 0 0.5 0)
-			(layer "B.SilkS")
-			(hide yes)
-			(uuid "04894117-c70d-42a2-a282-2aff3f8b4502")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
 		(fp_text user "Battery"
 			(at 0 3 0)
 			(layer "B.SilkS")
@@ -32633,7 +32606,7 @@
 			(at -8 12 0)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "9547e50b-b655-4844-9d23-9fa3b39a28ea")
+			(uuid "fdc5df3b-f961-46f0-b460-71c93f9b4dbb")
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -32646,7 +32619,7 @@
 			(at -0.1 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "6e8bfb0f-ca14-4e4d-b072-a8fda9e91682")
+			(uuid "732ce955-825f-429d-8965-8465a20722f3")
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -32660,7 +32633,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b5a6adc8-53d4-4731-b7fb-a77482745d15")
+			(uuid "ea0328a5-fbc4-475c-b960-8b917d46e2bc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32674,7 +32647,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2977e6c6-4bab-49db-a8f5-5275fb3dd9ca")
+			(uuid "8dcee1c5-c32c-41bc-9588-d8d7d6acd5ef")
 			(effects
 				(font
 					(size 1.27 1.27)
